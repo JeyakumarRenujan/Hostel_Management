@@ -5,11 +5,11 @@
                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
                 <style>
                     body { 
+                        margin: 0;
+                        padding: 0;
                         font-family: Arial, sans-serif;
                         text-align: center; 
-                        padding: 10px;
                         background-color: #f7f7f7; 
-                        margin-top: 20px;
 
                          /* Background image styling */
                         background-image: url('background.jpg'); /* Replace with your image path */
@@ -29,7 +29,7 @@
                     }
 
                     .footer {
-                        margin-top: 450px;   
+                        margin-top: 435px;   
                         font-size: 0.9em;
                         color: #888;
                         padding-top: 10px;
